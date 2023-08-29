@@ -1,4 +1,4 @@
-# Welcome to Deep Learning Course (E22)
+# Welcome to Deep Learning Course (E23)
 
 The Maersk Mc-Kinney Møller Institute - University of Southern Denmark  
 
